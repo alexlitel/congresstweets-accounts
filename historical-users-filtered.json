@@ -262,8 +262,11 @@
 		"accounts": [
 			{
 				"id": "1392282998",
-				"screen_name": "LGBTEqCaucus",
-				"account_type": "office"
+				"screen_name": "EqualityCaucus",
+				"account_type": "office",
+				"prev_names": [
+					"LGBTEqCaucus"
+				]
 			}
 		]
 	},
