@@ -7320,8 +7320,11 @@
 			},
 			{
 				"id": "2293131060",
-				"screen_name": "RepKClark",
-				"account_type": "office"
+				"screen_name": "WhipKClark",
+				"account_type": "office",
+				"prev_names": [
+					"RepKClark"
+				]
 			}
 		]
 	},
