@@ -981,7 +981,13 @@
 		"state": "AL",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "825191196775546883",
+				"screen_name": "RepDaleStrong",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -1301,6 +1307,11 @@
 			{
 				"id": "1415011405544177667",
 				"screen_name": "EliCraneAZ",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1006602338935508992",
+				"screen_name": "EliCrane_CEO",
 				"account_type": "campaign"
 			}
 		]
@@ -1793,7 +1804,18 @@
 		"state": "CA",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1514403098034262016",
+				"screen_name": "Duarte4Congress",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1613250027878490137",
+				"screen_name": "RepDuarteCA13",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -1976,6 +1998,11 @@
 				"screen_name": "RepKiley",
 				"id": "1610356961475809280",
 				"account_type": "office"
+			},
+			{
+				"id": "1415190525037056007",
+				"screen_name": "Kiley4CA",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -2013,6 +2040,11 @@
 		"chamber": "house",
 		"party": "D",
 		"accounts": [
+			{
+				"id": "18973663",
+				"screen_name": "kevinmullin",
+				"account_type": "campaign"
+			},
 			{
 				"screen_name": "RepKevinMullin",
 				"id": "1610411994888409088",
@@ -2382,6 +2414,11 @@
 		"party": "D",
 		"accounts": [
 			{
+				"id": "18120497",
+				"screen_name": "RobertGarcia",
+				"account_type": "campaign"
+			},
+			{
 				"screen_name": "RepRobertGarcia",
 				"id": "1602792195878047744",
 				"account_type": "office"
@@ -2472,7 +2509,18 @@
 		"state": "CA",
 		"chamber": "house",
 		"party": "D",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "993539467817373696",
+				"screen_name": "sydneykamlager",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1613235716669988871",
+				"screen_name": "RepKamlagerDove",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -3092,6 +3140,11 @@
 				"id": "1216076954375421952",
 				"screen_name": "CoryMillsFL",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1611138873496637440",
+				"screen_name": "RepMillsPress",
+				"account_type": "office"
 			}
 		]
 	},
@@ -3184,6 +3237,11 @@
 				"account_type": "campaign",
 				"screen_name": "TeamFSWilson",
 				"id": "3667668735"
+			},
+			{
+				"id": "1065332748985004032",
+				"screen_name": "FSWInTheHouse",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -3248,6 +3306,11 @@
 				"screen_name": "RepMoskowitz",
 				"id": "1610009027743830018",
 				"account_type": "office"
+			},
+			{
+				"id": "730899167740989441",
+				"screen_name": "JaredEMoskowitz",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -3335,6 +3398,11 @@
 				"screen_name": "RepLaurelLee",
 				"id": "1608230657796227072",
 				"account_type": "office"
+			},
+			{
+				"id": "1539230869008830464",
+				"screen_name": "Vote_Laurel",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -3805,6 +3873,11 @@
 				"screen_name": "RepMikeCollins",
 				"id": "1601030771124408325",
 				"account_type": "office"
+			},
+			{
+				"id": "1479567526388506629",
+				"screen_name": "TeamOverhaulGA",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -3850,6 +3923,11 @@
 			{
 				"id": "1136709465082945538",
 				"screen_name": "RichforGA",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1129885718728380419",
+				"screen_name": "RichMcCormick_",
 				"account_type": "campaign"
 			}
 		]
@@ -3905,7 +3983,13 @@
 		"state": "GU",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1603050607367028736",
+				"screen_name": "JMoylanforGuam",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -3941,6 +4025,11 @@
 		"chamber": "house",
 		"party": "D",
 		"accounts": [
+			{
+				"id": "62898153",
+				"screen_name": "jilltokuda",
+				"account_type": "campaign"
+			},
 			{
 				"screen_name": "RepJillTokuda",
 				"id": "1610730477563805699",
@@ -4216,7 +4305,18 @@
 		"state": "IL",
 		"chamber": "house",
 		"party": "D",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "892946194812555264",
+				"screen_name": "DeliaCRamirez",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1456017303435362309",
+				"screen_name": "DeliaRamirezIL",
+				"account_type": "campaign"
+			}
+		]
 	},
 	{
 		"id": {
@@ -4274,7 +4374,18 @@
 		"state": "IL",
 		"chamber": "house",
 		"party": "D",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1511150244578439168",
+				"screen_name": "CongressJackson",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1615455071801679874",
+				"screen_name": "rep_jackson",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -4379,6 +4490,11 @@
 		"chamber": "house",
 		"party": "D",
 		"accounts": [
+			{
+				"id": "321748989",
+				"screen_name": "NikkiBudzinski",
+				"account_type": "campaign"
+			},
 			{
 				"screen_name": "RepNikkiB",
 				"id": "1603476713995911168",
@@ -4495,6 +4611,11 @@
 		"party": "R",
 		"accounts": [
 			{
+				"id": "2327983291",
+				"screen_name": "Erin_Houchin",
+				"account_type": "campaign"
+			},
+			{
 				"screen_name": "RepHouchin",
 				"id": "1603694348725526528",
 				"account_type": "office"
@@ -4590,6 +4711,11 @@
 				"id": "816131319033950208",
 				"screen_name": "RepJimBanks",
 				"account_type": "office"
+			},
+			{
+				"id": "997253315237822468",
+				"screen_name": "TeamJimBanks",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -5341,6 +5467,11 @@
 				"screen_name": "RepGlennIvey",
 				"id": "1610111693836664834",
 				"account_type": "office"
+			},
+			{
+				"id": "1442975922802544641",
+				"screen_name": "glenniveymd",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -5612,6 +5743,11 @@
 				"id": "1106949340197801986",
 				"screen_name": "HillaryScholten",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1609941568869335041",
+				"screen_name": "RepScholten",
+				"account_type": "office"
 			}
 		]
 	},
@@ -5648,7 +5784,13 @@
 		"state": "MI",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "861246117689925633",
+				"screen_name": "JohnJamesMI",
+				"account_type": "campaign"
+			}
+		]
 	},
 	{
 		"id": {
@@ -6058,6 +6200,11 @@
 		"party": "R",
 		"accounts": [
 			{
+				"id": "17993908",
+				"screen_name": "EricBurlison",
+				"account_type": "campaign"
+			},
+			{
 				"screen_name": "RepEricBurlison",
 				"id": "1606342594765590528",
 				"account_type": "office"
@@ -6097,7 +6244,18 @@
 		"state": "MO",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "704689629",
+				"screen_name": "markalfordkc",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1612483604071727104",
+				"screen_name": "RepMarkAlford",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -6201,6 +6359,16 @@
 				"screen_name": "RepEzell",
 				"id": "1602788004749344768",
 				"account_type": "office"
+			},
+			{
+				"id": "1164628011481800704",
+				"screen_name": "MikeEzell11",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1377293395333246981",
+				"screen_name": "MikeEzellMS",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -6403,6 +6571,11 @@
 				"id": "226330560",
 				"screen_name": "DonDavisNC",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1610323296360210433",
+				"screen_name": "RepDonDavis",
+				"account_type": "office"
 			}
 		]
 	},
@@ -6439,7 +6612,13 @@
 		"state": "NC",
 		"chamber": "house",
 		"party": "D",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "124820305",
+				"screen_name": "JeffJacksonNC",
+				"account_type": "campaign"
+			}
+		]
 	},
 	{
 		"id": {
@@ -6522,6 +6701,11 @@
 		"party": "D",
 		"accounts": [
 			{
+				"id": "983298182",
+				"screen_name": "ValFoushee",
+				"account_type": "campaign"
+			},
+			{
 				"screen_name": "ValerieFoushee",
 				"id": "1611471154732060692",
 				"account_type": "office"
@@ -6571,6 +6755,11 @@
 				"id": "33795371",
 				"screen_name": "wileynickel",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1591085093220671491",
+				"screen_name": "RepWileyNickel",
+				"account_type": "office"
 			}
 		]
 	},
@@ -7003,6 +7192,11 @@
 				"id": "2151608598",
 				"screen_name": "Gabe_NM",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1610096539577487360",
+				"screen_name": "RepGabeVasquez",
+				"account_type": "office"
 			}
 		]
 	},
@@ -7261,6 +7455,11 @@
 				"id": "1496341259539161088",
 				"screen_name": "Brandon4ny22",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1602757312539680770",
+				"screen_name": "RepWilliams",
+				"account_type": "office"
 			}
 		]
 	},
@@ -7371,6 +7570,11 @@
 				"id": "1174153996363345921",
 				"screen_name": "Santos4Congress",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1615397155027525633",
+				"screen_name": "RepSantosNY03",
+				"account_type": "office"
 			}
 		]
 	},
@@ -7537,6 +7741,11 @@
 				"screen_name": "RepMolinaroNY19",
 				"id": "1603419749748297728",
 				"account_type": "office"
+			},
+			{
+				"id": "1466119349207449600",
+				"screen_name": "MarcMolinaroNY",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -7601,6 +7810,11 @@
 				"id": "18785472",
 				"screen_name": "NickLangworthy",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1611396007111057408",
+				"screen_name": "RepLangworthy",
+				"account_type": "office"
 			}
 		]
 	},
@@ -7872,6 +8086,11 @@
 				"id": "106162639",
 				"screen_name": "GregLandsman",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1613637172346642432",
+				"screen_name": "RepGregLandsman",
+				"account_type": "office"
 			}
 		]
 	},
@@ -7959,6 +8178,11 @@
 				"id": "1148299267481563138",
 				"screen_name": "MaxMillerOH",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1610383926446489600",
+				"screen_name": "RepMaxMiller",
+				"account_type": "office"
 			}
 		]
 	},
@@ -8110,7 +8334,18 @@
 		"state": "OK",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1517213689119662085",
+				"screen_name": "Brecheen4OK",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1603032402942730248",
+				"screen_name": "RepBrecheen",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -8196,6 +8431,11 @@
 				"id": "4669604480",
 				"screen_name": "AndreaRSalinas",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1611800554614755328",
+				"screen_name": "RepSalinas",
+				"account_type": "office"
 			}
 		]
 	},
@@ -8761,7 +9001,18 @@
 		"state": "RI",
 		"chamber": "house",
 		"party": "D",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1434052620",
+				"screen_name": "SethMagaziner",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1615455207713808384",
+				"screen_name": "Rep_Magaziner",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -8957,7 +9208,18 @@
 		"state": "TN",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "48375550",
+				"screen_name": "AndyOgles",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1603110823014141952",
+				"screen_name": "RepOgles",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -9531,7 +9793,18 @@
 		"state": "TX",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1440271846042001412",
+				"screen_name": "SelfForCongress",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1612430165585416192",
+				"screen_name": "RepKeithSelf",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -9704,7 +9977,18 @@
 		"state": "TX",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1185738917435314176",
+				"screen_name": "monica4congress",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1590396129094647814",
+				"screen_name": "RepMonicaDLC",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -9739,7 +10023,18 @@
 		"state": "TX",
 		"chamber": "house",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1464256502001188873",
+				"screen_name": "moran4congress",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1603470469608374272",
+				"screen_name": "RepNateMoran",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -10221,6 +10516,11 @@
 				"id": "1112745685810589698",
 				"screen_name": "JenKiggans",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1605275643523891201",
+				"screen_name": "RepJenKiggans",
+				"account_type": "office"
 			}
 		]
 	},
@@ -10832,6 +11132,11 @@
 				"id": "1435822302323695629",
 				"screen_name": "HagemanforWY",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1578455747263766528",
+				"screen_name": "RepHageman",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -11372,7 +11677,13 @@
 		"state": "AL",
 		"chamber": "senate",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1597271188383866883",
+				"screen_name": "SenKatieBritt",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
@@ -12438,7 +12749,13 @@
 		"state": "MO",
 		"chamber": "senate",
 		"party": "R",
-		"accounts": []
+		"accounts": [
+			{
+				"id": "1603540143872385026",
+				"screen_name": "SenEricSchmitt",
+				"account_type": "office"
+			}
+		]
 	},
 	{
 		"id": {
