@@ -1774,8 +1774,11 @@
 			},
 			{
 				"id": "414436134",
-				"screen_name": "BLeeForCongress",
-				"account_type": "campaign"
+				"screen_name": "BarbaraLeeForCA",
+				"account_type": "campaign",
+				"prev_names": [
+					"BLeeForCongress"
+				]
 			}
 		]
 	},
