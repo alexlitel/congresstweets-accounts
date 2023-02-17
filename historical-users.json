@@ -18354,8 +18354,11 @@
 			},
 			{
 				"id": "229966028",
-				"screen_name": "SenRubioPress",
-				"account_type": "office"
+				"screen_name": "SenMarcoRubio",
+				"account_type": "office",
+				"prev_names": [
+					"SenRubioPress"
+				]
 			}
 		]
 	},
