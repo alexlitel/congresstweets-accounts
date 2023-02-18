@@ -19713,6 +19713,18 @@
 	},
 	{
 		"id": {
+			"bioguide": "R000618",
+			"govtrack": 456952
+		},
+		"name": "Pete Ricketts",
+		"type": "member",
+		"state": "NE",
+		"chamber": "senate",
+		"party": "R",
+		"accounts": []
+	},
+	{
+		"id": {
 			"bioguide": "S001181",
 			"govtrack": 412323
 		},
