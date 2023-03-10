@@ -10526,6 +10526,18 @@
 	},
 	{
 		"id": {
+			"bioguide": "M001227",
+			"govtrack": 456953
+		},
+		"name": "Jennifer McClellan",
+		"type": "member",
+		"state": "VA",
+		"chamber": "house",
+		"party": "D",
+		"accounts": []
+	},
+	{
+		"id": {
 			"bioguide": "W000825",
 			"govtrack": 412834
 		},
