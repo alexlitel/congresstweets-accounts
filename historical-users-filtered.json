@@ -5376,6 +5376,11 @@
 				"id": "249410485",
 				"screen_name": "SanfordBishop",
 				"account_type": "office"
+			},
+			{
+				"id": "1486542944987496451",
+				"screen_name": "Bishop4Congress",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -6109,6 +6114,11 @@
 				"id": "1456017303435362309",
 				"screen_name": "DeliaRamirezIL",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1074354529787895808",
+				"screen_name": "repdeliaramirez",
+				"account_type": "office"
 			}
 		]
 	},
@@ -8325,6 +8335,11 @@
 				"id": "861246117689925633",
 				"screen_name": "JohnJamesMI",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1609056891547668480",
+				"screen_name": "RepJames",
+				"account_type": "office"
 			}
 		]
 	},
@@ -9677,6 +9692,11 @@
 				"id": "124820305",
 				"screen_name": "JeffJacksonNC",
 				"account_type": "campaign"
+			},
+			{
+				"id": "1611423475775770628",
+				"screen_name": "RepJeffJackson",
+				"account_type": "office"
 			}
 		]
 	},
@@ -16146,6 +16166,29 @@
 	},
 	{
 		"id": {
+			"bioguide": "M001227",
+			"govtrack": 456953
+		},
+		"name": "Jennifer McClellan",
+		"type": "member",
+		"state": "VA",
+		"chamber": "house",
+		"party": "D",
+		"accounts": [
+			{
+				"id": "370859141",
+				"screen_name": "JennMcClellanVA",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1633610542584659970",
+				"screen_name": "RepMcClellan",
+				"account_type": "office"
+			}
+		]
+	},
+	{
+		"id": {
 			"bioguide": "W000825",
 			"govtrack": 412834
 		},
@@ -17645,9 +17688,19 @@
 		"party": "R",
 		"accounts": [
 			{
+				"id": "346559263",
+				"screen_name": "KatieBoydBritt",
+				"account_type": "campaign"
+			},
+			{
 				"id": "1597271188383866883",
 				"screen_name": "SenKatieBritt",
 				"account_type": "office"
+			},
+			{
+				"id": "1400915708259696640",
+				"screen_name": "KatieBrittforAL",
+				"account_type": "campaign"
 			}
 		]
 	},
@@ -19145,6 +19198,11 @@
 		"party": "R",
 		"accounts": [
 			{
+				"id": "101852818",
+				"screen_name": "Eric_Schmitt",
+				"account_type": "campaign"
+			},
+			{
 				"id": "1603540143872385026",
 				"screen_name": "SenEricSchmitt",
 				"account_type": "office"
@@ -19553,6 +19611,34 @@
 			{
 				"id": "1071402577",
 				"screen_name": "SenatorFischer",
+				"account_type": "office"
+			}
+		]
+	},
+	{
+		"id": {
+			"bioguide": "R000618",
+			"govtrack": 456952
+		},
+		"name": "Pete Ricketts",
+		"type": "member",
+		"state": "NE",
+		"chamber": "senate",
+		"party": "R",
+		"accounts": [
+			{
+				"id": "1591322215",
+				"screen_name": "Ricketts4Senate",
+				"account_type": "campaign"
+			},
+			{
+				"id": "2891165960",
+				"screen_name": "PeteRicketts",
+				"account_type": "campaign"
+			},
+			{
+				"id": "1610027469205082114",
+				"screen_name": "SenatorRicketts",
 				"account_type": "office"
 			}
 		]
