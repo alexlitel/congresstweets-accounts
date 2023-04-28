@@ -19959,8 +19959,11 @@
 			},
 			{
 				"id": "1099199839",
-				"screen_name": "MartinHeinrich",
-				"account_type": "office"
+				"screen_name": "SenatorHeinrich",
+				"account_type": "office",
+				"prev_names": [
+					"MartinHeinrich"
+				]
 			}
 		]
 	},
