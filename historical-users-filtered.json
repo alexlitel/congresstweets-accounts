@@ -160,8 +160,11 @@
 		"accounts": [
 			{
 				"id": "819992111407919104",
-				"screen_name": "House_DRTF",
-				"account_type": "office"
+				"screen_name": "House_TFSD",
+				"account_type": "office",
+				"prev_names": [
+					"House_DRTF"
+				]
 			}
 		]
 	},
@@ -6006,10 +6009,11 @@
 		"accounts": [
 			{
 				"account_type": "campaign",
-				"screen_name": "ChuyChicago",
+				"screen_name": "Chuy4Congress",
 				"id": "2847603597",
 				"prev_names": [
-					"ChuyForCongress"
+					"ChuyForCongress",
+					"ChuyChicago"
 				]
 			},
 			{
